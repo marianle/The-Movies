@@ -1,0 +1,17 @@
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\obj\Debug\net6.0\Booking TheMovies.csproj.AssemblyReference.cache
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\obj\Debug\net6.0\Booking TheMovies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\obj\Debug\net6.0\Booking TheMovies.AssemblyInfoInputs.cache
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\obj\Debug\net6.0\Booking TheMovies.AssemblyInfo.cs
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\obj\Debug\net6.0\Booking TheMovies.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\bin\Debug\net6.0\Booking TheMovies.exe
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\bin\Debug\net6.0\Booking TheMovies.deps.json
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\bin\Debug\net6.0\Booking TheMovies.runtimeconfig.json
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\bin\Debug\net6.0\Booking TheMovies.dll
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\bin\Debug\net6.0\Booking TheMovies.pdb
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\obj\Debug\net6.0\Booking TheMovies.dll
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\obj\Debug\net6.0\refint\Booking TheMovies.dll
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\obj\Debug\net6.0\Booking TheMovies.pdb
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\obj\Debug\net6.0\Booking TheMovies.genruntimeconfig.cache
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\obj\Debug\net6.0\ref\Booking TheMovies.dll
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Bruger\Documents\Code\Hjemmeprojekter\Booking TheMovies\obj\Debug\net6.0\Booking TheMovies.csproj.CopyComplete
